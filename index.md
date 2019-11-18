@@ -39,7 +39,7 @@ Stay tuned. Will be announced soon.
 
 
 ## Organizers
-- Yasser Shoukry, University of California -- Irvine, [yshoukry@uci.edu](yshoukry@uci.edu)
-- Bharathan Balaji, Amazon, [bhabalaj@amazon.com](bhabalaj@amazon.com)
-- Mani Srivastava, University of California -- Los Angeles, [mbs@ucla.edu](mbs@ucla.edu)
-- Achin Jain, University of Pennsylvania, [achinj@seas.upenn.edu](achinj@seas.upenn.edu)
+- Yasser Shoukry, University of California -- Irvine, <yshoukry@uci.edu>
+- Bharathan Balaji, Amazon, <bhabalaj@amazon.com>
+- Mani Srivastava, University of California -- Los Angeles, <mbs@ucla.edu>
+- Achin Jain, University of Pennsylvania, <achinj@seas.upenn.edu>
