@@ -39,7 +39,14 @@ Stay tuned. Will be announced soon.
 
 
 ## Organizers
+#### Workshop Chairs
 - Yasser Shoukry, University of California -- Irvine, <yshoukry@uci.edu>
 - Bharathan Balaji, Amazon, <bhabalaj@amazon.com>
 - Mani Srivastava, University of California -- Los Angeles, <mbs@ucla.edu>
+
+#### Website Chair
 - Achin Jain, University of Pennsylvania, <achinj@seas.upenn.edu>
+
+#### Publicity Chairs
+- Nipun Batra, Indian Institute of Technology Gandhinagar
+- Chuchu Fan, University of Illinois Urbana-Champaign / Massachusetts Institute of Technology
