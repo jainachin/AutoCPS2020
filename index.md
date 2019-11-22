@@ -48,5 +48,15 @@ Stay tuned. Will be announced soon.
 - Achin Jain, University of Pennsylvania, <achinj@seas.upenn.edu>
 
 #### Publicity Chairs
-- Nipun Batra, Indian Institute of Technology Gandhinagar
+- Nipun Batra, Indian Institute of Technology Gandhinagar 
 - Chuchu Fan, University of Illinois Urbana-Champaign / Massachusetts Institute of Technology
+
+## Technical Program Committe (confirmed)
+- Alberto Cerpa (UC Merced)
+- Jorge Ortiz (Rutgers University)
+- Tarek Abdelzaher (UIUC)
+- Mehmet Köseoğlu (Hacettepe University)
+- Murali Balakrishnan Narayanaswamy (Amazon)
+- Archan Misra (Singapore SMU)
+- Salma Elmalaki (UCI)
+- Luis Garcia (UCLA)
