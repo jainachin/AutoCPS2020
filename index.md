@@ -45,10 +45,10 @@ Stay tuned. Will be announced soon.
 #### Website Chair
 - Achin Jain, University of Pennsylvania
 
-#### Publicity Chairs
+#### Publicity Chair
 - Chuchu Fan, University of Illinois Urbana-Champaign / Massachusetts Institute of Technology
 
-## Technical Program Committe
+## Technical Program Committee
 - Alberto Cerpa, University of California -- Merced
 - Archan Misra, Singapore Management University (SMU)
 - Jorge Ortiz, Rutgers University
@@ -61,7 +61,7 @@ Stay tuned. Will be announced soon.
 
 Additional TPC members will be confirmed soon.
 
-## Steering Committe
+## Steering Committee
 
 - Rajesh Gupta, University of California -- San Diego (UCSD)
 
