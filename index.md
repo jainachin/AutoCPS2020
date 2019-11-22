@@ -36,12 +36,11 @@ The Workshop on Autonomous Cyber-Physical Systems (AutoCPS) at the [CPS-IoT Week
 ## Invited speakers
 Stay tuned. Will be announced soon.
 
-
 ## Organizers
 #### Workshop Chairs
-- Yasser Shoukry, University of California -- Irvine, <yshoukry@uci.edu>
-- Bharathan Balaji, Amazon, <bhabalaj@amazon.com>
-- Mani Srivastava, University of California -- Los Angeles, <mbs@ucla.edu>
+- Yasser Shoukry, University of California -- Irvine
+- Bharathan Balaji, Amazon
+- Mani Srivastava, University of California -- Los Angeles
 
 #### Website Chair
 - Achin Jain, University of Pennsylvania, <achinj@seas.upenn.edu>
@@ -62,3 +61,6 @@ Stay tuned. Will be announced soon.
 - Tarek Abdelzaher (UIUC)
 Additional TPC members to be confirmed.
 
+## Contact Information
+
+The workshop organizers can be reached at chairs2020@autocps.org.
