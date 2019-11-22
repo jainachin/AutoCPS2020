@@ -38,28 +38,33 @@ Stay tuned. Will be announced soon.
 
 ## Organizers
 #### Workshop Chairs
-- Yasser Shoukry, University of California -- Irvine
+- Yasser Shoukry, University of California -- Irvine (UCI)
 - Bharathan Balaji, Amazon
-- Mani Srivastava, University of California -- Los Angeles
+- Mani Srivastava, University of California -- Los Angeles (UCLA)
 
 #### Website Chair
-- Achin Jain, University of Pennsylvania, <achinj@seas.upenn.edu>
+- Achin Jain, University of Pennsylvania
 
 #### Publicity Chairs
 - Nipun Batra, Indian Institute of Technology Gandhinagar 
 - Chuchu Fan, University of Illinois Urbana-Champaign / Massachusetts Institute of Technology
 
 ## Technical Program Committe
-- Alberto Cerpa (UC Merced)
-- Archan Misra (Singapore SMU)
-- Jorge Ortiz (Rutgers University)
-- Luis Garcia (UCLA)
-- Mehmet Köseoğlu (Hacettepe University)
-- Murali Balakrishnan Narayanaswamy (Amazon)
-- Rahul Mangharam (UPenn)
-- Salma Elmalaki (UCI)
-- Tarek Abdelzaher (UIUC)
-Additional TPC members to be confirmed.
+- Alberto Cerpa, University of California -- Merced
+- Archan Misra, Singapore Management University (SMU)
+- Jorge Ortiz, Rutgers University
+- Luis Garcia, University of California -- Los Angeles (UCLA)
+- Mehmet Köseoğlu, Hacettepe University
+- Murali Balakrishnan Narayanaswamy, Amazon
+- Rahul Mangharam, University of Pennsylvania
+- Salma Elmalaki, University of California -- Irvine (UCI)
+- Tarek Abdelzaher, University of Illinoise Urbana-Champaign
+
+Additional TPC members will be confirmed soon.
+
+## Steering Committe
+
+- Rajesh Gupta, University of California -- San Diego (UCSD)
 
 ## Contact Information
 
