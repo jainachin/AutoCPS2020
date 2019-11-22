@@ -54,10 +54,13 @@ Stay tuned. Will be announced soon.
 - Jorge Ortiz, Rutgers University
 - Luis Garcia, University of California -- Los Angeles (UCLA)
 - Mehmet Köseoğlu, Hacettepe University
+- Miroslav Pajic, Duke University
 - Murali Balakrishnan Narayanaswamy, Amazon
 - Rahul Mangharam, University of Pennsylvania
+- Raghupathy Sivakumar, Georgia Institute of Technology
 - Salma Elmalaki, University of California -- Irvine (UCI)
 - Tarek Abdelzaher, University of Illinoise Urbana-Champaign
+- Valerie Liptak, Amazon
 
 Additional TPC members will be confirmed soon.
 
