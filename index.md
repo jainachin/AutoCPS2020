@@ -4,9 +4,9 @@ Autonomy will become central to future Cyber-Physical Systems, as we scale exist
 Machine learning is already being used for various aspects of CPS, from recognizing human activities to robotic control. Much of the prior work has focused on supervised learning, where labels for each input are provided by a human, and a model is trained that learns the patterns in the data. However, in many CPS scenarios, these labels are expensive to collect on a large scale (e.g., autonomous driving) or not known beforehand (e.g., power transmission levels). This workshop seeks contributions where the model is continuously learning while the system is deployed using methods such as model predictive control, reinforcement learning, and behavioral cloning. The CPS community is slowly adopting these methods with applications to autonomous driving, HVAC control, medical intervention, and urban planning. Autonomous CPSes bring in a variety of research challenges: specification of constraints such as traffic rules, safety, high-assurance, risk-sensitive behavior, explainability of the model, transfer from simulation of the physical world to the real-world, multi-agent coordination. While these topics are being studied in robotics conferences such as CoRL, they are only beginning to be explored  in the much richer CPS domain and lack a current focused publication forum. 
 
 
-## Call for papers
+## Call for paper ([flyer] (https://docs.google.com/document/d/13_0jvJ3FVUSbT5RceXO1I09fZmowhDFULRfL8O9ND38/edit?usp=sharing){:target="_blank"}
 
-The Workshop on Autonomous Cyber-Physical Systems (AutoCPS) at the [CPS-IoT Week 2020](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html){:target="_blank"} seeks to bring together researchers to create solutions for the development of autonomous cyber-physical systems that can continually learn while being deployed in real physical and human  environments. As CPS applications are typically safety-critical, we seek contributions that address safety and reliability concerns. We propose to build a community of CPS researchers who are interested in frameworks, algorithms, tools, platforms, and testbeds for the development of autonomous cyber-physical systems. We seek contributions across disciplines - continual learning, reinforcement learning, control, human-machine interaction, safety, reliability, and verification. While papers being published in these topics are spread out across different conferences (IoTDI, ICCPS, HSCC, DAC, SenSys, BuildSys, Ubicomp, ICT4D), this workshop seeks to bring together these researchers to build a cross-disciplinary community focused on the common challenges in the domain.
+The Workshop on Autonomous Cyber-Physical Systems (AutoCPS) at the [CPS-IoT Week 2020](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html){:target="_blank"} seeks to bring together researchers to create solutions for the development of autonomous cyber-physical systems that can continually learn while being deployed in real physical and human  environments. As CPS applications are typically safety-critical, we seek contributions that address safety and reliability concerns. As a goal of the workshop is to build a community of CPS researchers who are interested in frameworks, algorithms, tools, platforms, and testbeds for the development of autonomous cyber-physical systems, we seek contributions across disciplines - continual learning, reinforcement learning, control, human-machine interaction, safety, reliability, and verification. The workshop in particular encouraged submissions that propose and explore new ideas as opposed to incremental research on established ideas.
 
 #### Topics of interest
 
@@ -28,10 +28,9 @@ The Workshop on Autonomous Cyber-Physical Systems (AutoCPS) at the [CPS-IoT Week
 
 ## Important dates
 
-- Paper due: Jan 8 
-- Reviews due: Jan 31
-- TPC Meeting: Feb 3
-- Camera Ready: Feb 14
+- Paper due: Jan 8 AoE (hard deadline, no extensions)
+- Decision notification: February 5
+- Camera Ready: Feb 14 AoE
 
 
 ## Invited speakers
@@ -53,10 +52,12 @@ Stay tuned. Will be announced soon.
 
 ## Technical Program Committe (confirmed)
 - Alberto Cerpa (UC Merced)
+- Archan Misra (Singapore SMU)
 - Jorge Ortiz (Rutgers University)
-- Tarek Abdelzaher (UIUC)
+- Luis Garcia (UCLA)
 - Mehmet Köseoğlu (Hacettepe University)
 - Murali Balakrishnan Narayanaswamy (Amazon)
-- Archan Misra (Singapore SMU)
+- Rahul Mangharam (UPenn)
 - Salma Elmalaki (UCI)
-- Luis Garcia (UCLA)
+- Tarek Abdelzaher (UIUC)
+
