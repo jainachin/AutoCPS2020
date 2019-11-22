@@ -46,7 +46,6 @@ Stay tuned. Will be announced soon.
 - Achin Jain, University of Pennsylvania
 
 #### Publicity Chairs
-- Nipun Batra, Indian Institute of Technology Gandhinagar 
 - Chuchu Fan, University of Illinois Urbana-Champaign / Massachusetts Institute of Technology
 
 ## Technical Program Committe
