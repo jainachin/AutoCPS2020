@@ -6,7 +6,7 @@ Machine learning is already being used for various aspects of CPS, from recogniz
 
 ## Call for Paper ([flyer](https://docs.google.com/document/d/13_0jvJ3FVUSbT5RceXO1I09fZmowhDFULRfL8O9ND38){:target="_blank"})
 
-The Workshop on Autonomous Cyber-Physical Systems (Autonomous CPS) at the [CPS-IoT Week 2020](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html){:target="_blank"} seeks to bring together researchers to create solutions for the development of autonomous cyber-physical systems that can continually learn while being deployed in real physical and human  environments. As CPS applications are typically safety-critical, we seek contributions that address safety and reliability concerns. As a goal of the workshop is to build a community of CPS researchers who are interested in frameworks, algorithms, tools, platforms, and testbeds for the development of autonomous cyber-physical systems, we seek contributions across disciplines - continual learning, reinforcement learning, control, human-machine interaction, safety, reliability, and verification. The workshop in particular encouraged submissions that propose and explore new ideas as opposed to incremental research on established ideas.
+The Workshop on Autonomy in Cyber-Physical Systems at the [CPS-IoT Week 2020](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html){:target="_blank"} seeks to bring together researchers to create solutions for the development of autonomous cyber-physical systems that can continually learn while being deployed in real physical and human  environments. As CPS applications are typically safety-critical, we seek contributions that address safety and reliability concerns. As a goal of the workshop is to build a community of CPS researchers who are interested in frameworks, algorithms, tools, platforms, and testbeds for the development of autonomous cyber-physical systems, we seek contributions across disciplines - continual learning, reinforcement learning, control, human-machine interaction, safety, reliability, and verification. The workshop in particular encouraged submissions that propose and explore new ideas as opposed to incremental research on established ideas.
 
 #### Topics of interest
 
@@ -51,22 +51,28 @@ Stay tuned. Will be announced soon.
 ## Technical Program Committee
 - Alberto Cerpa, University of California -- Merced
 - Archan Misra, Singapore Management University (SMU)
+- Enes Bilgin, Microsoft
 - Jorge Ortiz, Rutgers University
 - Luis Garcia, University of California -- Los Angeles (UCLA)
 - Mehmet Köseoğlu, Hacettepe University
 - Miroslav Pajic, Duke University
 - Murali Balakrishnan Narayanaswamy, Amazon
+- Olaf Landsiedel, Kiel University
+- Prateek Choudhary, University of Pennsylvania
 - Rahul Mangharam, University of Pennsylvania
 - Raghupathy Sivakumar, Georgia Institute of Technology
 - Salma Elmalaki, University of California -- Irvine (UCI)
+- Saman Halgamuge, University of Melbourne
 - Tarek Abdelzaher, University of Illinoise Urbana-Champaign
 - Valerie Liptak, Amazon
-
-Additional TPC members will be confirmed soon.
+- Wen Hu, Universty of New South Wales
+- Yonggang Wen, Nanyang Technological University
 
 ## Steering Committee
 
+- John Stankovic, University of Virginia
 - Rajesh Gupta, University of California -- San Diego (UCSD)
+- Sanjit Seshia, University of California -- Berkeley (UCSB)
 
 ## Contact Information
 
