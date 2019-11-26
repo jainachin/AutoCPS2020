@@ -17,6 +17,7 @@ The Workshop on Autonomy in Cyber-Physical Systems at the [CPS-IoT Week 2020](ht
 - Safe and efficient exploration
 - Transfer of models from simulation to real-world
 - Application spaces beyond robotics
+- Issues in partially autonomous CPS
 - Objective specification
 - Learning in the presence of constraints
 - Multi-agent and multi-objective systems
