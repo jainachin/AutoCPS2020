@@ -73,8 +73,8 @@ Stay tuned. Will be announced soon.
 
 - John Stankovic, University of Virginia
 - Rajesh Gupta, University of California -- San Diego (UCSD)
-- Sanjit Seshia, University of California -- Berkeley (UCSB)
+- Sanjit Seshia, University of California -- Berkeley (UCB)
 
 ## Contact Information
 
-The workshop organizers can be reached at chairs2020@autocps.org.
+The workshop organizers can be reached at <chairs2020@autocps.org>.
