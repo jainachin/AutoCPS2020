@@ -59,7 +59,7 @@ Stay tuned. Will be announced soon.
 - Miroslav Pajic, Duke University
 - Murali Balakrishnan Narayanaswamy, Amazon
 - Olaf Landsiedel, Kiel University
-- Prateek Choudhary, University of Pennsylvania
+- Pratik Chaudhari, University of Pennsylvania
 - Rahul Mangharam, University of Pennsylvania
 - Raghupathy Sivakumar, Georgia Institute of Technology
 - Salma Elmalaki, University of California -- Irvine (UCI)
