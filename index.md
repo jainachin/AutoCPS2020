@@ -68,6 +68,8 @@ Stay tuned. Will be announced soon.
 - Valerie Liptak, Amazon
 - Wen Hu, Universty of New South Wales
 - Yonggang Wen, Nanyang Technological University
+- Alberto Elfes, CSIRO
+- Peyman Moghadam, CSIRO
 
 ## Steering Committee
 
@@ -75,7 +77,7 @@ Stay tuned. Will be announced soon.
 - Rajesh Gupta, University of California -- San Diego (UCSD)
 - Sanjit Seshia, University of California -- Berkeley (UCB)
 
-## Sponsor
+## Sponsors
 
 Amazon
 
