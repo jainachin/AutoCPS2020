@@ -75,6 +75,10 @@ Stay tuned. Will be announced soon.
 - Rajesh Gupta, University of California -- San Diego (UCSD)
 - Sanjit Seshia, University of California -- Berkeley (UCB)
 
+## Sponsor
+
+Amazon
+
 ## Contact Information
 
 The workshop organizers can be reached at <chairs2020@autocps.org>.
