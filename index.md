@@ -70,6 +70,7 @@ Stay tuned. Will be announced soon.
 - Yonggang Wen, Nanyang Technological University
 - Alberto Elfes, CSIRO
 - Peyman Moghadam, CSIRO
+- Takashi Okoshi, Keio University
 
 ## Steering Committee
 
