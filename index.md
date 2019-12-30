@@ -51,6 +51,7 @@ Stay tuned. Will be announced soon.
 
 ## Technical Program Committee
 - Alberto Cerpa, University of California -- Merced
+- Alberto Elfes, CSIRO
 - Archan Misra, Singapore Management University (SMU)
 - Enes Bilgin, Microsoft
 - Jorge Ortiz, Rutgers University
@@ -59,18 +60,19 @@ Stay tuned. Will be announced soon.
 - Miroslav Pajic, Duke University
 - Murali Balakrishnan Narayanaswamy, Amazon
 - Olaf Landsiedel, Kiel University
+- Paulo Tabuada, University of California -- Los Angeles (UCLA)
+- Peyman Moghadam, CSIRO
 - Pratik Chaudhari, University of Pennsylvania
 - Rahul Mangharam, University of Pennsylvania
 - Raghupathy Sivakumar, Georgia Institute of Technology
 - Salma Elmalaki, University of California -- Irvine (UCI)
 - Saman Halgamuge, University of Melbourne
+- Susmit Jha, SRI International
+- Takashi Okoshi, Keio University
 - Tarek Abdelzaher, University of Illinoise Urbana-Champaign
 - Valerie Liptak, Amazon
 - Wen Hu, Universty of New South Wales
 - Yonggang Wen, Nanyang Technological University
-- Alberto Elfes, CSIRO
-- Peyman Moghadam, CSIRO
-- Takashi Okoshi, Keio University
 
 ## Steering Committee
 
