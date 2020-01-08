@@ -29,7 +29,7 @@ The Workshop on Autonomy in Cyber-Physical Systems at the [CPS-IoT Week 2020](ht
 
 ## Important dates
 
-- Paper due: Jan 8 AoE (hard deadline, no extensions)
+- Paper due: Jan 17 AoE (extended)
 - Decision notification: February 5
 - Camera Ready: Feb 14 AoE
 
